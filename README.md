@@ -64,5 +64,3 @@ Export gesture data to CSV for machine learning training
 
 📄 License
 This project is open-source and available under the MIT License.
-
-لو عايزني أعملك نسخة بلغة عربية أو بصيغة أبسط للمبتدئين، قوللي. كمان ممكن نضيف صور أو GIFs علشان توضح النتائج لو عندك لقطة شاشة أو فيديو صغير.
